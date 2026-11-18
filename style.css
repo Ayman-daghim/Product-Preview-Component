@@ -74,7 +74,7 @@ body {
 }
 
 .product-description {
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 600;
     line-height: 1.6;
     text-wrap: balance;
@@ -98,7 +98,7 @@ body {
 }
 
 .add-to-cart {
-    border: none;
+    border: 2px solid transparent;
     width: 100%;
     color: var(--color-surface);
     background-color: var(--color-primary);
