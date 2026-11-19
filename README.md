@@ -1,5 +1,5 @@
 # Product-Preview-Component
-This project was built as part of the Frontend Mentor challenges.
+A responsive product preview card built with HTML and CSS. It displays product information, a description, the current price, the original price, and an Add to Cart button.
 
 ## Folder Structure
 
